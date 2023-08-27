@@ -1,0 +1,20 @@
+import cartIcon from "./icon-cart.svg";
+import closeIcon from "./icon-close.svg";
+import deleteIcon from "./icon-delete.svg";
+import menuIcon from "./icon-menu.svg";
+import minusIcon from "./icon-minus.svg";
+import nextIcon from "./icon-next.svg";
+import plusIcon from "./icon-plus.svg";
+import prevIcon from "./icon-previous.svg";
+import avatarImage from "./image-avatar.png";
+import productThumbnail_1 from "./image-product-1-thumbnail.jpg";
+import productThumbnail_2 from "./image-product-2-thumbnail.jpg";
+import productThumbnail_3 from "./image-product-3-thumbnail.jpg";
+import productThumbnail_4 from "./image-product-4-thumbnail.jpg";
+import productImage_1 from "./image-product-1.jpg";
+import productImage_2 from "./image-product-2.jpg";
+import productImage_3 from "./image-product-3.jpg";
+import productImage_4 from "./image-product-4.jpg";
+import logo from "./logo.svg";
+
+export { cartIcon, closeIcon, deleteIcon, menuIcon, minusIcon, nextIcon, plusIcon, prevIcon, avatarImage, productImage_1, productImage_2, productImage_3, productImage_4, productThumbnail_1, productThumbnail_2, productThumbnail_3, productThumbnail_4, logo };
